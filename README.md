@@ -26,10 +26,14 @@
 Основна идеја е од овде: https://www.youtube.com/watch?v=YMWnwBpUgoI
 
 Линкови кои ми помогнаа:
-- https://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c [2D platformer - Unity course]
-- https://www.youtube.com/watch?v=4Wh22ynlLyk [Enemy follow a player]
-- https://www.youtube.com/watch?v=YUcvy9PHeXs&list=PL2g2sGKgX9YZ4DGiJPW9cQWzgimJnczX2&index=18 [Point counter, High score]
-- https://www.youtube.com/watch?v=FXqwunFQuao [Camera movement] 
+- [2D platformer - Unity course] 
+https://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c
+- [Enemy follow a player] 
+https://www.youtube.com/watch?v=4Wh22ynlLyk
+- [Point counter, High score]
+https://www.youtube.com/watch?v=YUcvy9PHeXs&list=PL2g2sGKgX9YZ4DGiJPW9cQWzgimJnczX2&index=18
+- [Camera movement]
+https://www.youtube.com/watch?v=FXqwunFQuao
 
 
 
