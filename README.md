@@ -21,6 +21,17 @@
 Сето ова е направно во Unity.
 
 
+Што се однесува до кодот, сите овие работи се превземени од различни извори на интернет, со моја измена, концептите за тоа како се користи Unity и работите како движење, пукање, собирање итн. 
+
+Основна идеја е од овде: https://www.youtube.com/watch?v=YMWnwBpUgoI
+
+Линкови кои ми помогнаа:
+- https://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c [2D platformer - Unity course]
+- https://www.youtube.com/watch?v=4Wh22ynlLyk [Enemy follow a player]
+- https://www.youtube.com/watch?v=YUcvy9PHeXs&list=PL2g2sGKgX9YZ4DGiJPW9cQWzgimJnczX2&index=18 [Point counter, High score]
+- https://www.youtube.com/watch?v=FXqwunFQuao [Camera movement] 
+
+
 
 https://user-images.githubusercontent.com/54333799/177050232-c774dfd1-f063-4e91-8cee-4fe9e67754e1.mp4
 
