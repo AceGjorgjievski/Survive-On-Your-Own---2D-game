@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=FXqwunFQuao
 
 
 Оваа игра е поставена онлајн и можете да ја играте овде -> https://acemkd.itch.io/survive-on-yuor-own-2d-game 
-* **Само прочитајте ги недостатоците уште еднаш :)**
+**Само прочитајте ги недостатоците уште еднаш :)** *
 
 Сите работи што се имплементирани во играва како фотографии, музика итн., можете тоа да го превземете од овде, во делот „**Assets**“
 https://drive.google.com/drive/folders/1c9_vJjWN_d-I5fHxha_qVtFuHYgnDzQ-?usp=sharing
